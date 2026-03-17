@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "es2017",
+    "outDir": "lib",
+    "skipLibCheck": true,  // <--- ADD THIS LINE
+    "lib": ["es2017", "dom"] 
+  },
+  "include": ["src/**/*"]
+}

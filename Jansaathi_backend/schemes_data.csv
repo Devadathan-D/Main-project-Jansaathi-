@@ -1,0 +1,5 @@
+name,description,state,occupation,category,min_age,max_age,min_income,max_income,required_documents,link
+PM Kisan Samman Nidhi,Income support for farmers,ALL,Farmer,General,18,,0,100000,"Aadhar Card, Land Proof",https://pmkisan.gov.in
+National Scholarship Portal,Support for students,Delhi,Student,General,15,25,0,200000,"Aadhar Card, Marksheet",https://scholarships.gov.in
+Startup India Scheme,Support for new businesses,ALL,Business,General,21,,0,5000000,"PAN Card, Aadhar Card",https://startupindia.gov.in
+Senior Citizen Pension,Pension for elderly residents,ALL,,General,60,,0,100000,Aadhar Card,https://pensionportal.gov.in
