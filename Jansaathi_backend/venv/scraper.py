@@ -52,13 +52,21 @@ print(f"Scraper initialized. Saving data to: {OUTPUT_FILE}")
 # -------------------- DRIVER --------------------
 def start_driver():
     options = webdriver.ChromeOptions()
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    # options.add_argument("--headless")
+    
+    # REQUIRED FOR AUTOMATION
+    options.add_argument("--headless")              # Runs Chrome without a GUI
+    options.add_argument("--disable-gpu")           # Applicable to windows os only
+    options.add_argument("--no-sandbox")            # Bypasses OS security model
+    options.add_argument("--disable-dev-shm-usage") # Overcomes limited resource problems
+    
+    # Optional: Set a Window Size (sometimes headless needs this to "see" elements)
+    options.add_argument("--window-size=1920,1080")
 
     driver = webdriver.Chrome(options=options)
-    driver.maximize_window()
+    
+    # Note: maximize_window() sometimes behaves oddly in headless mode, 
+    # but keeping it here is fine as a fallback.
+    driver.maximize_window() 
     return driver
 
 
