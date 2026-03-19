@@ -9,7 +9,6 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # This gives the bot the "Power" to write files without needing the Settings menu
     permissions:
       contents: write
 
@@ -32,13 +31,14 @@ jobs:
           pip install selenium webdriver-manager
 
       - name: Run Scraper
-        # Updated path based on your folder structure
-        run: python JanSaathi_backend/scraper.py
+        # Match exactly: Jansaathi_backend/scraper.py
+        run: python Jansaathi_backend/scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/schemes.json
+          # Added Jansaathi_backend/ path to the json file
+          git add Jansaathi_backend/schemes.json
           git commit -m "Automated Weekly Scrape: $(date)" || echo "No changes to commit"
           git push origin main
