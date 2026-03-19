@@ -9,6 +9,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # This gives the bot the "Power" to write files without needing the Settings menu
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout code
@@ -38,4 +41,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/schemes.json
           git commit -m "Automated Weekly Scrape: $(date)" || echo "No changes to commit"
-          git push
+          git push origin main
