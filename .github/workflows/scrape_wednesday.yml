@@ -29,10 +29,9 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install selenium webdriver-manager
-
       - name: Run Scraper
-        # Match exactly: Jansaathi_backend/scraper.py
-        run: python Jansaathi_backend/scraper.py
+        # Adding /venv/ to the path
+        run: python Jansaathi_backend/venv/scraper.py
 
       - name: Commit and Push changes
         run: |
