@@ -145,6 +145,12 @@
                 "content": {}
             },
             {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/us",
                 "title": "",
                 "is_closed": false,
@@ -152,12 +158,6 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/sss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -187,7 +187,7 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/fae-c",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/js-esdcv",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -222,25 +222,7 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/icar-jrf-pgs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/icar-srf-pgs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/ef",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ns-icarif",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -253,6 +235,24 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/pmrs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/ip-mea",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/scossi",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -269,68 +269,7 @@
     },
     {
         "category": "Public Safety, Law & Justice",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/fcsv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/padv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rvy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/vp-goa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/llbip",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rpa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nya",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pis",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmaepap",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/auscstpaa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "schemes": []
     },
     {
         "category": "Science, IT & Communications",
@@ -338,68 +277,7 @@
     },
     {
         "category": "Skills & Employment",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/wos-c",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/icar-es",
-                "title": "",
-                "is_closed": true,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/kbpyy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tssad",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/uas",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/isdane",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/vetls",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "schemes": []
     },
     {
         "category": "Social Welfare & Empowerment",
@@ -472,15 +350,198 @@
     },
     {
         "category": "Transport & Infrastructure",
-        "schemes": []
+        "schemes": [
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/atwsfww",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/gtadap",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/mlgs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/mmppy",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/spebj",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tgga",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-spm",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-mdtlhv",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/farsrwhrisewsaadc",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            }
+        ]
     },
     {
         "category": "Travel & Tourism",
-        "schemes": []
+        "schemes": [
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/mlgs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tby",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tgga",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/kdy",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sdd",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/svayhr",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/srjssyss",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/lowaltitudeuk",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tgcs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            }
+        ]
     },
     {
         "category": "Utility & Sanitation",
-        "schemes": []
+        "schemes": [
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/agjy",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/mgpny",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sbbs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/bgpbg",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/ksyg",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/isecvcani",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/ots",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sbm-g-i",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/scsp-ewscf",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/1pmy",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            }
+        ]
     },
     {
         "category": "Women and Child",
