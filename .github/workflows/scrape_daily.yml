@@ -1,9 +1,9 @@
-name: Weekly MyScheme Scraper
+name: Daily MyScheme Scraper
 
 on:
   schedule:
-    # This runs at 00:00 UTC every Wednesday
-    - cron: '0 0 * * 3' 
+    # This runs at 00:00 UTC every single day
+    - cron: '0 0 * * *' 
   workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
@@ -29,15 +29,16 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install selenium webdriver-manager
+
       - name: Run Scraper
-        # Adding /venv/ to the path
+        # Path updated to point inside venv as per your folder structure
         run: python Jansaathi_backend/venv/scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # Added Jansaathi_backend/ path to the json file
+          # Added path to the json file inside Jansaathi_backend
           git add Jansaathi_backend/schemes.json
-          git commit -m "Automated Weekly Scrape: $(date)" || echo "No changes to commit"
+          git commit -m "Automated Daily Scrape: $(date)" || echo "No changes to commit"
           git push origin main
