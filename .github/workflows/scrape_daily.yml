@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # This fix prevents the "exit code 128" by ignoring problematic submodules
+          submodules: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,14 +34,14 @@ jobs:
           pip install selenium webdriver-manager
 
       - name: Run Scraper
-        # Path updated to point inside venv as per your folder structure
+        # Points to your script inside the venv folder as seen in your VS Code
         run: python Jansaathi_backend/venv/scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # Added path to the json file inside Jansaathi_backend
+          # Correct path to your JSON file based on Jansaathi_backend folder
           git add Jansaathi_backend/schemes.json
           git commit -m "Automated Daily Scrape: $(date)" || echo "No changes to commit"
           git push origin main
