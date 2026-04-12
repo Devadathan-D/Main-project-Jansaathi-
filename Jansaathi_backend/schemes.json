@@ -21,7 +21,7 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/madilu",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/uppy",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -33,19 +33,19 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/uppy",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sse25krbust",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/madilu",
                 "title": "",
                 "is_closed": false,
                 "content": {}
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/ssieemaf",
-                "title": "",
-                "is_closed": true,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sse25krbust",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -68,19 +68,19 @@
         "category": "Banking, Financial Services and Insurance",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
                 "title": "",
                 "is_closed": false,
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/pmsby",
                 "title": "",
-                "is_closed": true,
+                "is_closed": false,
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmsby",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -98,18 +98,6 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ignoaps-sikkim",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sgatt",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/cmhisn",
                 "title": "",
                 "is_closed": false,
@@ -122,7 +110,19 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/dls-punjab",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/ignoaps-sikkim",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sgatt",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/apun-ghar",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -145,12 +145,6 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/us",
                 "title": "",
                 "is_closed": false,
@@ -158,6 +152,12 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/sss",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -187,7 +187,7 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/js-esdcv",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/fae-c",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -198,13 +198,13 @@
         "category": "Education & Learning",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nos-swd",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/post-dis",
                 "title": "",
                 "is_closed": false,
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-dis",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/nos-swd",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -234,12 +234,6 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/pmrs",
                 "title": "",
                 "is_closed": false,
@@ -247,6 +241,12 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/ip-mea",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -423,6 +423,12 @@
                 "content": {}
             },
             {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/shakti",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/llbip",
                 "title": "",
                 "is_closed": false,
@@ -445,12 +451,6 @@
                 "title": "",
                 "is_closed": false,
                 "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmaepap",
-                "title": "",
-                "is_closed": false,
-                "content": {}
             }
         ]
     },
@@ -462,13 +462,13 @@
         "category": "Skills & Employment",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/wos-c",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
                 "title": "",
                 "is_closed": false,
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/wos-c",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -580,13 +580,13 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/soapttikaa",
-                "title": "",
+                "title": "www.myscheme.gov.in",
                 "is_closed": false,
                 "content": {}
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/ndafa",
-                "title": "",
+                "title": "www.myscheme.gov.in",
                 "is_closed": false,
                 "content": {}
             }
