@@ -2,9 +2,8 @@ name: Daily MyScheme Scraper
 
 on:
   schedule:
-    # This runs at 00:00 UTC every single day
     - cron: '0 0 * * *' 
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -16,8 +15,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # This fix prevents the "exit code 128" by ignoring problematic submodules
-          submodules: false
+          # This forces a clean copy and ignores the broken 'jansaathi2' link
+          set-safe-directory: 'true'
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,14 +34,14 @@ jobs:
           pip install selenium webdriver-manager
 
       - name: Run Scraper
-        # Points to your script inside the venv folder as seen in your VS Code
+        # Using the venv path from your VS Code screenshot
         run: python Jansaathi_backend/venv/scraper.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # Correct path to your JSON file based on Jansaathi_backend folder
-          git add Jansaathi_backend/schemes.json
+          # We use -f (force) here to make sure it ignores any git errors during add
+          git add -f Jansaathi_backend/schemes.json
           git commit -m "Automated Daily Scrape: $(date)" || echo "No changes to commit"
           git push origin main
