@@ -69,8 +69,8 @@
         "schemes": [
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
-                "title": "",
-                "is_closed": true,
+                "title": "UX4G Accessibility Tool",
+                "is_closed": false,
                 "content": {}
             },
             {
@@ -198,13 +198,13 @@
         "category": "Education & Learning",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-dis",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/nos-swd",
                 "title": "",
                 "is_closed": false,
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nos-swd",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/post-dis",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -234,6 +234,12 @@
                 "content": {}
             },
             {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/pmrs",
                 "title": "",
                 "is_closed": false,
@@ -241,12 +247,6 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/ip-mea",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -264,7 +264,13 @@
         "schemes": [
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf",
-                "title": "www.myscheme.gov.in",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/rcmrf-mh",
+                "title": "",
                 "is_closed": false,
                 "content": {}
             },
@@ -288,12 +294,6 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/dak",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rcmrf-mh",
                 "title": "www.myscheme.gov.in",
                 "is_closed": false,
                 "content": {}
@@ -462,12 +462,6 @@
         "category": "Skills & Employment",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/wos-c",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
                 "title": "",
                 "is_closed": false,
@@ -517,6 +511,12 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/atihcdohs",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/ticcotdocs",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -632,8 +632,14 @@
                 "content": {}
             },
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-spm",
+                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
                 "title": "www.myscheme.gov.in",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-spm",
+                "title": "",
                 "is_closed": false,
                 "content": {}
             },
@@ -645,12 +651,6 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/farsrwhrisewsaadc",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
                 "title": "",
                 "is_closed": false,
                 "content": {}
@@ -791,12 +791,6 @@
         "category": "Women and Child",
         "schemes": [
             {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/wos-c",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf-vocational-training",
                 "title": "",
                 "is_closed": false,
@@ -846,6 +840,12 @@
             },
             {
                 "scheme_url": "https://www.myscheme.gov.in/schemes/cmenspy",
+                "title": "",
+                "is_closed": false,
+                "content": {}
+            },
+            {
+                "scheme_url": "https://www.myscheme.gov.in/schemes/sfsa",
                 "title": "",
                 "is_closed": false,
                 "content": {}
