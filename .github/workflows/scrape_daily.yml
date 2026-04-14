@@ -35,7 +35,7 @@ jobs:
 
       - name: Run Scraper
         # Using the venv path from your VS Code screenshot
-        run: python Jansaathi_backend/venv/scraper.py
+        run: python Jansaathi_backend/scraper.py
 
       - name: Commit and Push changes
         run: |

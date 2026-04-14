@@ -1,855 +1,236 @@
 [
     {
-        "category": "Agriculture, Rural & Environment",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/kbpyy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mmkssy-assam",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/madilu",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cctofp",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/uppy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ssieemaf",
-                "title": "",
-                "is_closed": true,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sse25krbust",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ioaibfcpbic",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/itg",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
+        "title": "Skilled Youth Startup Scheme",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Banking, Financial Services and Insurance",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
-                "title": "UX4G Accessibility Tool",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmsby",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nps-tsep",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/aag",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmhisn",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/lgss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ignoaps-sikkim",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sgatt",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/apun-ghar",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/kbpyy",
+        "title": "Krishak Bakri Palan Yojna",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Business & Entrepreneurship",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
-                "title": "",
-                "is_closed": true,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/us",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/lgss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/gs-west-bengal",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sse25krbust",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rgsry",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/js-esdcv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/mmkssy-assam",
+        "title": "Mukhya Mantri Krishi Sa Sajuli Yozana - Assam",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Education & Learning",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nos-swd",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-dis",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf-vocational-training",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sjpfsgc",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ef",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rgisfm",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/post-st",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmrs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ip-mea",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/scossi",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/madilu",
+        "title": "Madilu Kit",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Health & Wellness",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rcmrf-mh",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/icdss",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cpy",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmhisn",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/dak",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/maapbandocwwb",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmfccs",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/drfdamt",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/css",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/cctofp",
+        "title": "Community Canning & Training On Fruit Preservation",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Housing & Shelter",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/hiip",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rsb",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ps-west-bengal",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/uky",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ombgh",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/gwwh",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/adthsg",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/lach",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cofhft",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/v-vhcs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/uppy",
+        "title": "Uttam Pashu Puraskar Yojana",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Public Safety, Law & Justice",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/fcsv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/padv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rvy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/vp-goa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmfms",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/shakti",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/llbip",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rpa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nya",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pis",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/ssieemaf",
+        "title": "Scheme For Subsidy On Interest For Establishment Of 1 To 20 Milch Animal Farm",
+        "is_closed": true,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Science, IT & Communications",
-        "schemes": []
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/sse25krbust",
+        "title": "Subsidy Scheme On Establishment Of - 25 Kadaknath/R.I.R. Birds Unit To Scheduled Tribes",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Skills & Employment",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/syss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/kbpyy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tssad",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/uas",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/isdane",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/vetls",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/atihcdohs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ticcotdocs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/ioaibfcpbic",
+        "title": "Incentive To Owners Of Artificial Insemination Born Female Calf Through Pure Breeding In Indigenous Cow",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Social Welfare & Empowerment",
-        "schemes": []
+        "category": "Agriculture,Rural & Environment",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/itg",
+        "title": "Incentive To Girls",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Sports & Culture",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sfava",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmat-spie",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/asyadcf",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/yspncp",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ddkfs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/larlbas",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/nhdp-dba-saic",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/soapttikaa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/soetya",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/apsfa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/sui",
+        "title": "Stand-Up India",
+        "is_closed": true,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Transport & Infrastructure",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/atwsfww",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/gtadap",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mlgs",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mmppy",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/spebj",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tgga",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
-                "title": "www.myscheme.gov.in",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-spm",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tdp-mdtlhv",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/farsrwhrisewsaadc",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/pmsby",
+        "title": "Pradhan Mantri Suraksha Bima Yojana",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Travel & Tourism",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mlgs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tby",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tgga",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/kdy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sdd",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/svayhr",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/srjssyss",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/lowaltitudeuk",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/dbrasvpcdbrali",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/tgcs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/sl",
+        "title": "Skill Loan Scheme",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Utility & Sanitation",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/agjy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mgpny",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sbbs",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/bgpbg",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ksyg",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/isecvcani",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/ots",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sbm-g-i",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/scsp-ewscf",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/1pmy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/nps-tsep",
+        "title": "National Pension Scheme For Traders And Self Employed Persons",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     },
     {
-        "category": "Women and Child",
-        "schemes": [
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/rmewf-vocational-training",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/famdpwog",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sjpfsgc",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/us",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/mmuy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/wbkanyashree",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/scy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/biocare",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/cmenspy",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            },
-            {
-                "scheme_url": "https://www.myscheme.gov.in/schemes/sfsa",
-                "title": "",
-                "is_closed": false,
-                "content": {}
-            }
-        ]
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/aag",
+        "title": "Aponar Apon Ghar",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
+    },
+    {
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/cmhisn",
+        "title": "Chief Minister’s Health Insurance Scheme - Nagaland",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
+    },
+    {
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/lgss",
+        "title": "LIDCOM Gattai Stall Scheme",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
+    },
+    {
+        "category": "Banking,Financial Services and Insurance",
+        "scheme_url": "https://www.myscheme.gov.in/schemes/ignoaps-sikkim",
+        "title": "Indira Gandhi National Old Age Pension Scheme - Sikkim",
+        "is_closed": false,
+        "content": {
+            "description": "",
+            "eligibility": "",
+            "benefits": "",
+            "documents_required": "",
+            "how_to_apply": ""
+        }
     }
 ]
